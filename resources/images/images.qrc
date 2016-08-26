@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>toolbar/help.png</file>
+        <file>toolbar/information.png</file>
+        <file>toolbar/open_img.png</file>
+        <file>toolbar/open_pal.png</file>
+        <file>toolbar/save_img.png</file>
+        <file>toolbar/save_pal.png</file>
+        <file>toolbar/edit_pal.png</file>
+    </qresource>
+</RCC>
